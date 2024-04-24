@@ -20,7 +20,6 @@
 
 
 
-С графиками можно ознакомиться по [ссылке](https://app.powerbi.com/view?r=eyJrIjoiYmZkYTRiZmItZmRiYi00ZTZiLTliNjEtNDA1NDBkY2I0YmM1IiwidCI6IjEzN2E2YTYzLWU3OWUtNDkzMS1hZjBjLWVlYTIzMmM0MWFmNyIsImMiOjl9)
 
 
 Для выгрузки данных из яндекс облака и добавления их в кликхаус используем AirFlow. Создаем скрипт, который находится в файле "lab_06.py", работает ежечасно.
@@ -36,3 +35,5 @@
 - s3_key_id (str) - ID ключа сервисного аккаунта
 - s3_key_access (str) - Токен сервисного аккаунта (секретный ключ)
 - list_tables (list) - Список наименований таблиц, которые скачиваем из облака и грузим в кликхаус
+
+С графиками в Power BI можно ознакомиться по [ссылке](https://app.powerbi.com/view?r=eyJrIjoiYmZkYTRiZmItZmRiYi00ZTZiLTliNjEtNDA1NDBkY2I0YmM1IiwidCI6IjEzN2E2YTYzLWU3OWUtNDkzMS1hZjBjLWVlYTIzMmM0MWFmNyIsImMiOjl9)
