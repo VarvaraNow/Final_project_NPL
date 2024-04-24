@@ -20,4 +20,4 @@
 
 
 
-С графиками можно ознакомиться по [ссылке](https://app.powerbi.com/view?r=eyJrIjoiYmY1ZTZhYmItOWE3Yi00Y2Y3LWE0MjAtODE2OGNjMDUyYzY3IiwidCI6IjEzN2E2YTYzLWU3OWUtNDkzMS1hZjBjLWVlYTIzMmM0MWFmNyIsImMiOjl9)
+С графиками можно ознакомиться по [ссылке](https://app.powerbi.com/view?r=eyJrIjoiYmZkYTRiZmItZmRiYi00ZTZiLTliNjEtNDA1NDBkY2I0YmM1IiwidCI6IjEzN2E2YTYzLWU3OWUtNDkzMS1hZjBjLWVlYTIzMmM0MWFmNyIsImMiOjl9)
