@@ -15,7 +15,8 @@
 
 Информация о факте покупки и количеству покупок определяется по столбцу "page_url_path" в таблице "location_events" по значению "/confirmation"- означает, что покупка подтверждена.
 
-Структура данных в Power BI выглядит следующим образом: ![image](https://github.com/VarvaraNow/Final_project_NPL/assets/116558491/44ad9c9b-7f3d-4117-b5e1-5c4ffc2c2937)
+Структура данных в Power BI выглядит следующим образом: ![image](https://github.com/VarvaraNow/Final_project_NPL/assets/116558491/b9d66101-bac2-4fb0-ba9f-7e3782bd0156)
+
 
 
 С графиками можно ознакомиться по [ссылке](https://app.powerbi.com/view?r=eyJrIjoiYmY1ZTZhYmItOWE3Yi00Y2Y3LWE0MjAtODE2OGNjMDUyYzY3IiwidCI6IjEzN2E2YTYzLWU3OWUtNDkzMS1hZjBjLWVlYTIzMmM0MWFmNyIsImMiOjl9)
