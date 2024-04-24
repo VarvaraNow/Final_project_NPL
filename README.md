@@ -5,7 +5,7 @@
 **Задачи проекта:**
 - Создать таблицы в Clickhouse
 - Загрузить данные в таблицы Clickhouse с помощью Airflow из Яндекс облака
-- Сформировать несколько графиков в Power BI
+- Для аналитики сформировать несколько графиков в Power BI
 
 Первоначально данные загружаются в следующие таблицы:
 * browser_events — данные с информацией о просмотрах браузера
@@ -18,4 +18,4 @@
 Структура данных в Power BI выглядит следующим образом: ![image](https://github.com/VarvaraNow/Final_project_NPL/assets/116558491/44ad9c9b-7f3d-4117-b5e1-5c4ffc2c2937)
 
 
-С графиками можно ознакомиться по [ссылке](http://37.139.41.97:8088/superset/dashboard/12/?native_filters_key=rapLFWf1Wzrwao9-ucB0yRgayUFNReIHgv9n_nCy6Pbuj5F6YcKDiA0-LedLzTZk)
+С графиками можно ознакомиться по [ссылке](https://app.powerbi.com/view?r=eyJrIjoiYmY1ZTZhYmItOWE3Yi00Y2Y3LWE0MjAtODE2OGNjMDUyYzY3IiwidCI6IjEzN2E2YTYzLWU3OWUtNDkzMS1hZjBjLWVlYTIzMmM0MWFmNyIsImMiOjl9)
