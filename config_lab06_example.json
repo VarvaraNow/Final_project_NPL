@@ -1,0 +1,10 @@
+{
+"click_ip": "1.2.3.4",
+"click_port": 9090,
+"s3_url": "https://storage.yandexcloud.net",
+"s3_bucket": "bucket_name",
+"s3_region": "ru-central1",
+"s3_key_id": "key_id",
+"s3_key_access": "key_access",
+"list_tables": ["browser_events", "device_events", "geo_events", "location_events"]
+}
