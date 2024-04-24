@@ -3,7 +3,7 @@ import clickhouse_driver
 from airflow.decorators import dag, task
 
 @dag(
-    start_date=datetime.datetime(2024, 4, 10, 23),
+    start_date=pendulum.datetime(2024, 4, 10, 23),
     catchup=False
 )
 def truncate_clickhouse():
